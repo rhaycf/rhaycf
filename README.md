@@ -11,4 +11,6 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/6nCmyP7I8bZBZ13LEc2olr)
 ---
 ### Contact with me 📝
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabres-rhayane/) ![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/FabresRhayane) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabres-rhayane/)](https://www.linkedin.com/in/fabres-rhayane/)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://twitter.com/FabresRhayane)](https://twitter.com/FabresRhayane)
