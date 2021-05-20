@@ -1,4 +1,4 @@
-# {"Hello Word"}, I'm Rhay  👩🏻💻
+# {"Hi"}, I'm Rhay  👩🏻💻
 
  -  📍  From ES - Brazil
  - 👩🏻‍💻 I'm currently studying Information Systems at the University Vila Velha
