@@ -22,6 +22,3 @@
  ![Snake animation](https://github.com/rhaycf/blob/output/github-contribution-grid-snake.svg)
  
  
----
-#### 🧠 "É possível fazer o que você quiser e, se encontrar uma barreira, passe por cima dela, contorne-a, passe por baixo ou encontre outro caminho para o seu objetivo!!"
----
