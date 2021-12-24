@@ -1,5 +1,5 @@
 <div>
-  <img  align="right" height="30" width="30" alt="rhay-git" src="rhay.jpg";
+  <img  align="right" height="50" width="50" alt="rhay-git" src="rhay.jpg";
   
 </div>
 
