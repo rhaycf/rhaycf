@@ -1,10 +1,16 @@
-# {"Hello"} I'm Rhay
+<div>
+  <img align="right" alt="rhay-git" src="";
+</div>
 
+## {"Hello"} I'm Rhay
+
+🧠 "É possível fazer o que você quiser e, se encontrar uma barreira, passe por cima dela, contorne-a, passe por baixo ou encontre outro caminho para o seu objetivo!!"
+##
+  
 <div align="center">
   <a href="https://github.com/rhaycf">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaycf&layout=compact&langs_count=7&theme=highcontrast"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rhaycf&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rhaycf&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaycf&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
  
  ##
@@ -16,9 +22,7 @@
  </div>
  
   
- ##
-  🧠 "É possível fazer o que você quiser e, se encontrar uma barreira, passe por cima dela, contorne-a, passe por baixo ou encontre outro caminho para o seu objetivo!!"
- ---
+
  
  
  <div>
