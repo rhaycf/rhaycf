@@ -1,6 +1,5 @@
 
-## {"Hello"} I'm Rhay
-
+## Hi!! Sou a Rhay
 
   
 <div align="center">
