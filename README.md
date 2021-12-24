@@ -31,7 +31,7 @@
   
 <div>
   - 🌱 Atualmente estou aprendendo: Javascript<br>
-  - 📍 Atualmente estou morando: ES - Brasil<br>
+  - 📍  Atualmente estou morando: ES - Brasil<br>
   - 😄 Pronomes: ela/dela<br>
   - 📫 Como entrar em contato comigo: 
 </div>
