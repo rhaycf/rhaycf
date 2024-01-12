@@ -1,43 +1,20 @@
 
-## Hi!! Sou a Rhay
+## Hi!! I'm Rhay
 
-  
-<div align="center">
-  <a href="https://github.com/rhaycf">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rhaycf&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaycf&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-  
-##
-  
-<div>
+```python
 
-  ![Snake animation](https://github.com/rhaycf/rhaycf/blob/output/github-contribution-grid-snake.svg)
+class Perfil:
 
-</div>
-  
-##
-  
-<div>
-  <img src="rhay.jpg" align="left" height="400" width="400">
-</div>
-                                                                           
-  
+  def __init__(self):
+    self.nome = "Rhayane F."
+    self.graduacao = "Sistemas de Informação"
+    self.estudando = "Python"
+    self.idiomas = ["pt_BR", "en_US"]
+    self.drink = "Café ☕"
 
-### 🧠"É possível fazer o que você quiser e, se encontrar uma barreira, passe por cima dela, contorne-a, passe por baixo ou encontre outro caminho para o seu objetivo!!"
+eu = Perfil()
+```
 
-<br>
-  
-<div>
-  - 🌱 Atualmente estou aprendendo: Javascript<br>
-  - 😄 Pronomes: ela/dela<br>
-  - 📫 Como entrar em contato comigo: 
-</div>  
-  
-<br><br>
-  
-<div align="center">
-  <a href="https://twitter.com/FabresRhayane" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rhayanefabres@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabres-rhayane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhaycf)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabres-rhayane/)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frhaycf&label=Visitors&countColor=%23263759)
