@@ -1,18 +1,18 @@
 
 ## Hi!! I'm Rhay
 
-```python
+```javascript
 
-class Perfil:
+const perfil = {
+  nome: 'Rhayane F.',
+  graduacao: 'Sistemas de Informação',
+  estudando: 'React Native',
+  idiomas: ['pt_BR', 'en_US'],
+  drink: 'Café ☕'
+};
 
-  def __init__(self):
-    self.nome = "Rhayane F."
-    self.graduacao = "Sistemas de Informação"
-    self.estudando = "Python"
-    self.idiomas = ["pt_BR", "en_US"]
-    self.drink = "Café ☕"
+console.log(perfil);
 
-eu = Perfil()
 ```
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhaycf)
