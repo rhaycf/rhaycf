@@ -36,7 +36,10 @@ class Program
 {
   static void Main(string[] args)
   {
-    Perfil perfil = new Perfil(nome: "Rhayane", graduacao: "Sistemas de informação", estudando: ".NET & C#", bebida: "Café ☕");
+    Perfil perfil = new Perfil(nome: "Rhayane",
+                               graduacao: "Sistemas de informação",
+                               estudando: ".NET & C#",
+                               bebida: "Café ☕");
     
     Console.WriteLine("=== Perfil ===");
     Console.WriteLine(perfil);
