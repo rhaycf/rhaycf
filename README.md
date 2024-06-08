@@ -1,20 +1,48 @@
 
 ## Hi!! I'm Rhay
 
-```javascript
+```csharp
 
-const perfil = {
-  nome: 'Rhayane F.',
-  graduacao: 'Sistemas de Informação',
-  estudando: 'React Native',
-  idiomas: ['pt_BR', 'en_US'],
-  drink: 'Café ☕'
-};
+public class Perfil
+{
+  public string Nome { get; private set; }
+  public string Graduacao { get; set; }
+  public string Estudando { get; set; }
+  public string Bebida { get; private set; }
+  
+  public Perfil(string nome, string graduacao, string estudando, string bebida)
+  {
+    Nome = nome;
+    Graduacao = graduacao;
+    Estudando = estudando;
+    Bebida = bebida;
+  }
 
-console.log(perfil);
+  public override string ToString()
+  {
+    return "Nome: "
+        + Nome
+        + ",\nGraduação: "
+        + Graduacao
+        + ",\nEstudando: "
+        + Estudando
+        + ",\nBebida: "
+        + Bebida;
+  }
+}
 
+//Program.cs
+class Program
+{
+  static void Main(string[] args)
+  {
+    Perfil perfil = new Perfil(nome: "Rhayane", graduacao: "Sistemas de informação", estudando: ".NET & C#", bebida: "Café ☕");
+    
+    Console.WriteLine("=== Perfil ===");
+    Console.WriteLine(perfil);
+  }
+}
 ```
+![image](https://github.com/rhaycf/rhaycf/assets/65169776/174b92e1-b528-4288-9425-4c784055e0aa)
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhaycf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabres-rhayane/)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frhaycf&label=Visitors&countColor=%23263759)
