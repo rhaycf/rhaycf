@@ -1,17 +1,30 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:DD0031&height=200&section=header&text=Rhayane&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20Full%20Stack%20.NET%20e%20Angular&descAlignY=58&descSize=18" width="100%" alt="Banner" />
+# Oie, eu sou a **Rhay**!
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:512BD4,100:DD0031&height=70&section=header&text=About%20Me&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="About Me" />
+<details open>
+<summary>
+  <img src="https://media2.giphy.com/media/1WngN4dBeVmN3QjoZJ/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <h2>About me</h2>
+</summary>
+  
+<br>
 
 Desenvolvedora **Full Stack** formada em **Sistemas de Informação**.
 
-- 🚀 Apaixonada por tecnologia e desenvolvimento
-- 📚 Sempre buscando aprender e evoluir
-- 🎵 Código, café e uma playlist boa
+- ☕ **Combo perfeito:** café + playlist boa + código rodando de primeira (raro, mas acontece)
+- 🌱 **Sempre aprendendo:** um projeto, um bug e um café de cada vez
+- 📊 **Plot twist:** já mexi com dados e ETL, então sei que por trás de toda tela bonita tem uma tabela bem modelada
+- 💬 **Pode chamar pra trocar ideia sobre:** código, carreira em tech ou qual playlist combina com debugar
+
+</details>
 
 <br>
-  
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:512BD4,100:DD0031&height=70&section=header&text=Tools%20and%20Technologies&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="Tools and Technologies" />
 
+<details open>
+<summary>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <h2>Tools and Technologies</h2>
+</summary>
+  
+<br>
+  
 <table>
   <tr>
     <td><b>Backend</b></td>
@@ -48,9 +61,16 @@ Desenvolvedora **Full Stack** formada em **Sistemas de Informação**.
   </tr>
 </table>
 
+</details>
+
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:512BD4,100:DD0031&height=70&section=header&text=Featured%20Projects&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="Featured Projects" />
+<details open>
+<summary>
+  <img src="https://media2.giphy.com/media/igsIZv3VwIIlRIpq5G/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="33"> <h2>Featured Projects</h2>
+</summary>
+
+<br>
 
 API para gerenciamento do faturamento de uma barbearia.
 
@@ -69,26 +89,41 @@ API para gerenciamento do faturamento de uma barbearia.
 
 🔗 [Acessar repositório](https://github.com/rhaycf/BarberBoss)
 
+</details>
+
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:512BD4,100:DD0031&height=70&section=header&text=GitHub%20stats&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="GitHub Stats" />
+<details>
+<summary>
+  <img src="https://media2.giphy.com/media/NQjMHsjfxlyatCIATq/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> <h2>GitHub Stats</h2>
+</summary>
+
+<br>
 
 <p align="center">
-  <img height="165" width="400" src="https://github-readme-stats.vercel.app/api?username=rhaycf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues,contribs" alt="Estatísticas do GitHub" />
-  <img height="165" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaycf&layout=compact&theme=tokyonight&hide_border=true&hide=php,javascript" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rhaycf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues,contribs" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhaycf&layout=compact&theme=tokyonight&hide_border=true&hide=php,javascript" alt="Linguagens mais utilizadas" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rhaycf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+</details>
+
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:512BD4,100:DD0031&height=70&section=header&text=Let%27s%20Connect&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="Let's Connect" />
+<details open>
+<summary>
+  <img src="https://media2.giphy.com/media/IflNFS33ulVXQHvhXn/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> <h2>Let's Connect</h2>
+</summary>
+
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/rhayane-fabres/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:DD0031&height=100&section=footer" width="100%" alt="Rodapé" />
+</details>
