@@ -1,4 +1,10 @@
-# Oie, eu sou a **Rhay**!
+<h1 align="center">Oi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, eu sou a Rhay</h1>
+
+<p align="center">
+  <a href="https://github.com/rhaycf">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=A78BFA&center=true&vCenter=true&width=500&height=50&lines=Desenvolvedora+Full+Stack;C%23+%7C+.NET+%7C+Angular+%7C+TypeScript;APIs+REST+e+boas+pr%C3%A1ticas;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
+  </a>
+</p>
 
 <details open>
 <summary>
